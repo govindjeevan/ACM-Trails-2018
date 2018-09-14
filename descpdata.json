@@ -115,7 +115,7 @@ var data = [
 		"</div>"+
 		"<h4 id=\"firstHeading\" class=\"firstHeading\">HCC</h4>"+
 		"<div id=\"bodyContent\">"+
-		"<p>Strategically placed near the NITK Main ground, the HCC is your first 'point-of-care’ for any and every health issue, be it a bad cold, or god forbid what else. Not to mention, all your treatment and medical expenses are covered under NITK Insurance. So, don’t waste time if you’ve got a case of the flu.<br>Also, they have an Ambulance that will come pick you up from anywhere in campus!<br>Timings:<br>Mon-Fri: 9.00 AM - 1.00 PM & 2.00 PM - 6.00 PM <br> Sat: 9.00 AM - 1.00 PM & 2.00 PM - 4.00 PM<br>Sun: 9.00 AM t- 12 Noon</p>"+
+		"<p>Strategically placed near the NITK Main ground, the HCC is your first 'point-of-care’ for any and every health issue, be it a bad cold, or god forbid what else. Not to mention, all your treatment and medical expenses are covered under NITK Insurance. So, don’t waste time if you’ve got a case of the flu.<br>Also, they have an Ambulance that will come pick you up from anywhere in campus!<br>Timings:<br>Mon-Fri: 9.00 AM - 1.00 PM & 2.00 PM - 6.00 PM <br> Sat: 9.00 AM - 1.00 PM & 2.00 PM - 4.00 PM<br>Sun: 9.00 AM - 12 Noon</p>"+
 		"</div>"+
 		"</div>"
 	},
@@ -195,7 +195,7 @@ var data = [
 		"</div>"
 	},
 	{
-		"name": "Mudrika",
+		"name": "mudrikaa",
 		"coords": {
 			"lat": 13.008535,
 			"lng": 74.794168
@@ -203,9 +203,9 @@ var data = [
 		"cont": "<div id=\"content\">"+
 		"<div id=\"siteNotice\">"+
 		"</div>"+
-		"<h4 id=\"firstHeading\" class=\"firstHeading\">Mudrika</h4>"+
+		"<h4 id=\"firstHeading\" class=\"firstHeading\">mudrikaa</h4>"+
 		"<div id=\"bodyContent\">"+
-		"<p>Missed a lot of notes in the classes you slept or bunked? Need to print/bind an assignment? Need to get Photostats of &quot;Important Documents&quot;?<br>Need copies of your Passport photo? Mudrika has been the prefered choice for NITKians for quite a while now.<br>Mudrika Timings: 9:00 AM - 1:00 PM, 1:30 PM - 5:45 PM<br>Contact: mudrikaa.nitk@gmail.com</p>"+
+		"<p>Missed a lot of notes in the classes you slept or bunked? Need to print/bind an assignment? Need to get Photostats of &quot;Important Documents&quot;?<br>Need copies of your Passport photo? mudrikaa has been the prefered choice for NITKians for quite a while now.<br>mudrikaa Timings: 9:00 AM - 1:00 PM, 1:30 PM - 5:45 PM<br>Contact: mudrikaaa.nitk@gmail.com</p>"+
 		"</div>"+
 		"</div>"
 	},
@@ -525,36 +525,6 @@ var data = [
 		"</div>"
 	},
 	{
-		"name": "Department of Electrical and Electronics Engineering",
-		"coords": {
-			"lat": 13.010905,
-			"lng": 74.792613
-		},
-		"cont": "<div id=\"content\">"+
-		"<div id=\"siteNotice\">"+
-		"</div>"+
-		"<h4 id=\"firstHeading\" class=\"firstHeading\">Department of Electrical and Electronics Engineering</h4>"+
-		"<div id=\"bodyContent\">"+
-		"<p>B  Venkatesa Permul<br>Associate Professor and Head of the Department<br>Department of Electrical and Electronics Engineering , NITK , Surathkal<br>P. O. Srinivasnagar, Mangalore - 575 025<br>Karnataka, India.<br>Hot line:+91-824-2473045<br>Fax:+91-824-2474039<br>Email:hodee@nitk.ac.in</p>"+
-		"</div>"+
-		"</div>"
-	},
-	{
-		"name": "Department of Information Technology",
-		"coords": {
-			"lat": 13.010905,
-			"lng": 74.792613
-		},
-		"cont": "<div id=\"content\">"+
-		"<div id=\"siteNotice\">"+
-		"</div>"+
-		"<h4 id=\"firstHeading\" class=\"firstHeading\">Department of Information Technology</h4>"+
-		"<div id=\"bodyContent\">"+
-		"<p>G. Ram Mohana Reddy<br>Professor and Head<br>Department of Information Technology,NITK,Surathkal<br>P. O. Srinivasnagar, Mangalore - 575 025<br>Karnataka, India.<br>Hot line:+91-824-2474056<br>Email: infotech@nitk.ac.in</p>"+
-		"</div>"+
-		"</div>"
-	},
-	{
 		"name": "Department of Mining Engineering",
 		"coords": {
 			"lat": 13.01173628,
@@ -735,7 +705,7 @@ var data = [
 		"</div>"
 	},
 	{
-		"name": "Ocean pearl",
+		"name": "Ocean Pearl",
 		"coords": {
 			"lat": 13.008463,
 			"lng": 74.795179
@@ -743,7 +713,7 @@ var data = [
 		"cont": "<div id=\"content\">"+
 		"<div id=\"siteNotice\">"+
 		"</div>"+
-		"<h4 id=\"firstHeading\" class=\"firstHeading\">Ocean pearl</h4>"+
+		"<h4 id=\"firstHeading\" class=\"firstHeading\">Ocean Pearl</h4>"+
 		"<div id=\"bodyContent\">"+
 		"<p>The only canteen in the campus that operates during the day, this place has a lot of options to choose from for a proper meal within reasonable prices. Serves pure veg food.<br>The North Indian Thali available only in the night is worth every penny spent on it.</p>"+
 		"</div>"+
@@ -821,22 +791,22 @@ var data = [
 		"<h4 id=\"firstHeading\" class=\"firstHeading\">Girls Block Night Canteen</h4>"+
 		"<div id=\"bodyContent\">"+
 		// "<p>Known for the best chicken tikka biryani you’ll ever have.  Plus they offer a great variety of dosas for a quick snack.<br>Contact: 7760921064,7760921074</p>"+
-		"<p>Known for the best chicken tikka biryani you’ll ever have. Plus they offer a great variety of dosas for a quick snack.The Belgian choco-chip milkshake is something you should not miss. Mess has not started yet. So phone nos not available. </p>"+
+		"<p>Known for the best chicken tikka biryani you’ll ever have. Plus they offer a great variety of dosas for a quick snack.The Belgian choco-chip milkshake is something you should not miss. Canteen isn't open yet. So phone nos not available. </p>"+
 		"</div>"+
 		"</div>"
 	},
 	{
 		"name": "3rd Block Night Canteen",
 		"coords": {
-			"lat": 13.008096,
-			"lng": 74.796137
+			"lat": 13.00636902,
+			"lng": 74.79654637
 		},
 		"cont": "<div id=\"content\">"+
 		"<div id=\"siteNotice\">"+
 		"</div>"+
 		"<h4 id=\"firstHeading\" class=\"firstHeading\">3rd Block Night Canteen</h4>"+
 		"<div id=\"bodyContent\">"+
-		"<p>A vegetarians paradise. Cheap and quick. Famous for their vada pavs and chole bhature. <br>Contact: 9740687393,9902487595</p>"+
+		"<p>A vegetarians paradise. Cheap and quick. Famous for their vada pavs and chole bhature.  <br>Canteen isn't open yet. So phone nos not available.</p>"+
 		"</div>"+
 		"</div>"
 	},
@@ -858,15 +828,15 @@ var data = [
 	{
 		"name": "7th Block Night Canteen",
 		"coords": {
-			"lat": 13.007849,
-			"lng": 74.796301
+			"lat": 13.00798496,
+			"lng": 74.79612356
 		},
 		"cont": "<div id=\"content\">"+
 		"<div id=\"siteNotice\">"+
 		"</div>"+
 		"<h4 id=\"firstHeading\" class=\"firstHeading\">7th Block Night Canteen</h4>"+
 		"<div id=\"bodyContent\">"+
-		"<p> Are you finding it hard to survive without chicken? Check out the 7th block for amazing shawarmas, biryani, chicken curries and much more.<br>Delivery does take time, so order accordingly. The food is mostly worth the wait.<br>As of now, it's the only functioning Night Canteen, i.e. the only source of good food on campus after 9<br>Contact:8861995818,7090689469</p>"+
+		"<p> Are you finding it hard to survive without chicken? Check out the 7th block for amazing shawarmas, biryani, chicken curries and much more.<br>Delivery does take time, so order accordingly. The food is mostly worth the wait.<br>Canteen isn't open yet. So phone nos not available.</p>"+
 		"</div>"+
 		"</div>"
 	},
@@ -881,7 +851,22 @@ var data = [
 		"</div>"+
 		"<h4 id=\"firstHeading\" class=\"firstHeading\">Fruit shop</h4>"+
 		"<div id=\"bodyContent\">"+
-		"<pMess food too boring? Diet conscious and scared of eating outside? Wanna stay healthy? This is the place for you. P.S. Selfies taken here have been proven to make mothers happy.</p>"+
+		"<p>Mess food too boring? Diet conscious and scared of eating outside? Wanna stay healthy? This is the place for you. P.S. Selfies taken here have been proven to make mothers happy.</p>"+
+		"</div>"+
+		"</div>"
+	},
+	{
+		"name": "Crumbz",
+		"coords": {
+			"lat": 13.01276183,
+			"lng": 74.79643798
+		},
+		"cont": "<div id=\"content\">"+
+		"<div id=\"siteNotice\">"+
+		"</div>"+
+		"<h4 id=\"firstHeading\" class=\"firstHeading\">Crumbz</h4>"+
+		"<div id=\"bodyContent\">"+
+		"<p>Your friend's birthday coming up? Need to buy a cake. This is the nearest place to buy one(YUMMY).<br>Contact : +91 824 247 5080</p>"+
 		"</div>"+
 		"</div>"
 	},
@@ -1078,6 +1063,21 @@ var data = [
 		"<h4 id=\"firstHeading\" class=\"firstHeading\">Fresh And Honest</h4>"+
 		"<div id=\"bodyContent\">"+
 		"<p>A counterpart to the one near the GB, you can get biscuits, cup noodles, even soup. </p>"+
+		"</div>"+
+		"</div>"
+	},
+	{
+		"name": "NITK STEP",
+		"coords": {
+			"lat": 13.0151706,
+			"lng": 74.79146749
+		},
+		"cont": "<div id=\"content\">"+
+		"<div id=\"siteNotice\">"+
+		"</div>"+
+		"<h4 id=\"firstHeading\" class=\"firstHeading\">NITK STEP</h4>"+
+		"<div id=\"bodyContent\">"+
+		"<p>It's a entrepreneurship development and an incubation centre. Home to NITK's entrepreneurs, it gives start ups an office to bring their ideas to life.<br>To know more, visit" +  "<a href=\"http://www.nitkstep.org\"> http://www.nitkstep.org</a></p>"+
 		"</div>"+
 		"</div>"
 	}
